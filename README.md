@@ -19,4 +19,4 @@ Specilization:
 - API
 ---
 
-By [Plan9](https://plan9.tech)
+By <a href="https://plan9.tech" target="_blank">Plan9</a>
