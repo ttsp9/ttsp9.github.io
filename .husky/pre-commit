@@ -1,1 +1,1 @@
-bun test && bun lint . --fix && bun pre_commit.ts
+bun test && bun lint . --fix && [ -f pre_commit.ts ] && bun pre_commit.ts
