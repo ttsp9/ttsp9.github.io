@@ -30,7 +30,7 @@ Tools:
 - <a href="https://playwright.dev" target="blank">Playwrite</a>
 - <a href="https://www.cypress.io" target="blank">Cypress</a>
 - <a href="https://jestjs.io" target="blank">Jest</a>
-- Tools you use.
+- Tools you use
 ---
 
 By <a href="https://plan9.tech" target="_blank">Plan9</a>
