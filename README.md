@@ -6,17 +6,28 @@ We believe: an application can only be effectively tested by an independent team
 
 Experience: For over 5 years, we have worked on projects of all complexities—from startups to enterprise solutions. Our expertise helps clients avoid critical errors, mitigate risks, and release products that perform flawlessly even under high-load scenarios.
 
+Why choose us?
+
 - Independence = Objectivity.
 - Deep understanding of requirements and architecture.
 - Access to all up-to-date devices for testing.
 - Tests that save time and resources at every stage of development.
 
-Specilization:
+Specialization:
 - AI
 - Bots
 - Web / Mobile
 - UI / UX
 - API
+
+Tools:
+- <a href="https://pytorch.org" target="blank">PyTorch</a>
+- <a href="https://lightning.ai/docs/torchmetrics/stable/" target="blank">TorchMetrics</a>
+- <a href="https://behave.readthedocs.io" target="blank">Behave</a>
+- <a href="https://docs.pytest.org" target="blank">Pytest</a>
+- <a href="https://playwright.dev" target="blank">Playwrite</a>
+- <a href="https://www.cypress.io" target="blank">Cypress</a>
+- <a href="https://jestjs.io" target="blank">Jest</a>
 ---
 
 By <a href="https://plan9.tech" target="_blank">Plan9</a>
