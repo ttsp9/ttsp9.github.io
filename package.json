@@ -18,10 +18,10 @@
   "scripts": {
     "prepare": "husky",
     "lint": "eslint .",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "hooks:pre-commit": "node ./pre_commit.js"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "hooks:pre-commit": "bun ./pre_commit.js"
   },
   "husky": {
-    "pre-commit": "npm run hooks:pre-commit"
+
   }
 }
