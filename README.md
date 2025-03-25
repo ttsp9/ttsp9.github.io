@@ -13,6 +13,7 @@ Why choose us?
 - Access to all up-to-date devices for testing.
 - Tests that save time and resources at every stage of development.
 
+
 Specialization:
 - AI
 - Bots
@@ -24,7 +25,7 @@ Tools:
 - <a href="https://pytorch.org" target="blank">PyTorch</a>
 - <a href="https://lightning.ai/docs/torchmetrics/stable/" target="blank">TorchMetrics</a>
 - <a href="https://behave.readthedocs.io" target="blank">Behave</a>
-- <a href="https://docs.pytest.org" target="blank">Pytest</a>
+- <a href="https://docs.pytest.org" target="blank">PyTest</a>
 - <a href="https://playwright.dev" target="blank">Playwrite</a>
 - <a href="https://www.cypress.io" target="blank">Cypress</a>
 - <a href="https://jestjs.io" target="blank">Jest</a>
