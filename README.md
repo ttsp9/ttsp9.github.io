@@ -4,7 +4,7 @@ We are a team of testers specializing in AI solutions testing, Telegram bots, ga
 
 We believe: an application can only be effectively tested by an independent team not involved in its development. A fresh perspective, zero bias, and attention to detail are key to uncovering hidden vulnerabilities and improving product quality. External testing also reduces development costs by catching issues early, when they are far cheaper to fix.
 
-Experience: For over 5 years, we have worked on projects of all complexities—from startups to enterprise solutions. Our expertise helps clients avoid critical errors, mitigate risks, and release products that perform flawlessly even under high-load scenarios.
+Experience: For over 5 years, we have worked on projects of all complexities — from startups to enterprise solutions. Our expertise helps clients avoid critical errors, mitigate risks, and release products that perform flawlessly even under high-load scenarios.
 
 Why choose us?
 
@@ -14,14 +14,14 @@ Why choose us?
 - Tests that save time and resources at every stage of development.
 
 
-Specialization:
+## Specialization:
 - AI
 - Bots
 - Web / Mobile
 - UI / UX
 - API
 
-Tools:
+## Tools:
 - <a href="https://pytorch.org" target="blank">PyTorch</a>
 - <a href="https://lightning.ai/docs/torchmetrics/stable/" target="blank">TorchMetrics</a>
 - <a href="https://behave.readthedocs.io" target="blank">Behave</a>
