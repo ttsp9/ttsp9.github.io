@@ -21,6 +21,12 @@ Why choose us?
 - UI / UX
 - API
 
+## Clients
+- <a href="https://arenavs.com" target="blank">Arena Games</a>
+- <a href="https://t.me/Arenavsbot" target="blank">Arena Games Bot</a>
+- <a href="https://www.tfm.com" target="blank">TFM</a>
+- <a href="https://platinum.fund/en" target="blank">Platinum</a>
+
 ## Tools:
 - <a href="https://pytorch.org" target="blank">PyTorch</a>
 - <a href="https://lightning.ai/docs/torchmetrics/stable/" target="blank">TorchMetrics</a>
