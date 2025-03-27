@@ -17,7 +17,7 @@ const formatMessage = (commit_message: string) => {
 	const message = commit_message.trim()
 	const splitted = message.split(':')
 	const type = (splitted[0] || 'chore').trim()
-	console.log('type', type)
+
 	if (!commit_types.includes(type)) {
 		throw new Error(`Invalid commit type: ${type}`)
 	}
@@ -32,6 +32,7 @@ const formatMessage = (commit_message: string) => {
     
 	return formatted_message
 }
+
 const formatted_message = formatMessage(commit_message)
 
 process.stdout.write(formatted_message)
