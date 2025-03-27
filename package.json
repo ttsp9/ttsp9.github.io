@@ -20,6 +20,7 @@
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 0",
     "hooks:pre-commit": "bun ./src/hooks/pre-commit.ts",
-    "hooks:commit-msg": "bun ./src/hooks/commit-msg.ts"
+    "hooks:commit-msg": "bun ./src/hooks/commit-msg.ts",
+    "git:delete-commit": "bun ./src/scripts/delete-commit.ts"
   }
 }

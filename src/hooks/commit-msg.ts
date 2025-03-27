@@ -13,12 +13,12 @@ const commit_types = [
 ]
 const commit_message = process.argv[2] + ''
 
-const formatMessage = (commit_message: string) => {
+const format_message = (commit_message: string) => {
 	const message = commit_message.trim()
 	const splitted = message.split(':')
-	const type = (splitted[0] || 'chore').trim()
+	const type = (splitted[0] || 'any').trim() // Use 'any' as the default type
 
-	if (!commit_types.includes(type)) {
+	if (!commit_types.includes(type) && type !== 'any') {
 		throw new Error(`Invalid commit type: ${type}`)
 	}
 	let subject = splitted.slice(1).join(':').trim()
@@ -33,6 +33,6 @@ const formatMessage = (commit_message: string) => {
 	return formatted_message
 }
 
-const formatted_message = formatMessage(commit_message)
+const formatted_message = format_message(commit_message)
 
 process.stdout.write(formatted_message)
