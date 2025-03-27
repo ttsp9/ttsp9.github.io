@@ -19,6 +19,7 @@
     "prepare": "husky",
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 0",
-    "hooks:pre-commit": "bun ./pre_commit.js"
+    "hooks:pre-commit": "bun ./pre-commit.ts",
+    "hooks:commit-mgs": "bun ./commit-msg.ts"
   }
 }
