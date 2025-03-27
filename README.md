@@ -24,6 +24,7 @@ Why choose us?
 ## Clients
 - <a href="https://arenavs.com" target="blank">Arena Games</a>
 - <a href="https://t.me/Arenavsbot" target="blank">Arena Games Bot</a>
+- <a href="https://t.me/MemesLabBot" target="blank">Memes Lab</a>
 - <a href="https://www.tfm.com" target="blank">TFM</a>
 - <a href="https://platinum.fund/en" target="blank">Platinum</a>
 
