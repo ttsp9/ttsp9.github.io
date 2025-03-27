@@ -14,7 +14,7 @@ Why choose us?
 - Tests that save time and resources at every stage of development.
 
 
-## Specialization:
+## Specialization
 - AI
 - Bots
 - Web / Mobile
@@ -28,7 +28,7 @@ Why choose us?
 - <a href="https://www.tfm.com" target="blank">TFM</a>
 - <a href="https://platinum.fund/en" target="blank">Platinum</a>
 
-## Tools:
+## Tools
 - <a href="https://pytorch.org" target="blank">PyTorch</a>
 - <a href="https://lightning.ai/docs/torchmetrics/stable/" target="blank">TorchMetrics</a>
 - <a href="https://behave.readthedocs.io" target="blank">Behave</a>
