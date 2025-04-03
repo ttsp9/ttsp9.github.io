@@ -1,5 +1,7 @@
 # Test This Shit Please
 
+[Русский](./docs/ru/readme.md)
+
 We are a team of testers specializing in AI solutions testing, Telegram bots, games, writing end-to-end (e2e) and unit tests, load testing, and penetration testing.
 
 We believe: an application can only be effectively tested by an independent team not involved in its development. A fresh perspective, zero bias, and attention to detail are key to uncovering hidden vulnerabilities and improving product quality. External testing also reduces development costs by catching issues early, when they are far cheaper to fix.
