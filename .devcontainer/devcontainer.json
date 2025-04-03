@@ -1,0 +1,32 @@
+{
+	"name": "container-ttsp9-debian",
+	"build": {
+		"dockerfile": "../Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"ms-azuretools.vscode-docker",
+				"ms-vscode-remote.remote-containers",
+				"streetsidesoftware.code-spell-checker"
+			]
+		},
+		"settings": {
+			"terminal.integrated.defaultProfile.linux": "bash",
+			"editor.formatOnSave": true,
+			"editor.codeActionsOnSave": {
+				"source.fixAll.eslint": true
+			}
+		}
+	},
+	"mounts": [
+		"source=${localEnv:HOME}/.ssh,target=/root/.ssh,type=bind,consistency=cached"
+	],
+	"features": {},
+	"forwardPorts": [
+		3000
+	],
+	"postCreateCommand": "apt-get update && apt-get install -y nano",
+	"waitFor": "postCreateCommand"
+}

@@ -1,7 +1,7 @@
 # TTSP9
 bun.lock
 * copy.*
-*.dev*
+*.dev.*
 
 # Logs
 logs
