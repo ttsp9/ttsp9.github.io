@@ -1,6 +1,4 @@
-# Test This Shit Please
-
-[Русский](./docs/ru/readme.md)
+# Test This Shit Please                       [GIT](./docs/ru/readme.md)
 
 We are a team of testers specializing in AI solutions testing, Telegram bots, games, writing end-to-end (e2e) and unit tests, load testing, and penetration testing.
 
